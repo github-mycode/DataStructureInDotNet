@@ -1,0 +1,11 @@
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.exe
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.deps.json
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.runtimeconfig.json
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.runtimeconfig.dev.json
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.dll
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.pdb
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.csprojAssemblyReference.cache
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.AssemblyInfoInputs.cache
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.AssemblyInfo.cs
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.dll
+C:\My Code\DataStructure\I-Code\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.pdb
