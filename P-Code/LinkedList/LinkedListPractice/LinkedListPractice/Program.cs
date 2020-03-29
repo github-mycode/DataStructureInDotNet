@@ -13,10 +13,16 @@ namespace LinkedListPractice
             head.Next.Next.Next.Next = new ListNode(5);
 
             ListNode.PrintNode(head);
-            Console.WriteLine("Length = " + ListNode.GetLength(head));
-            ListNode.InsertNode(head, 10);
+            head = ListNode.DeleteNode(head,3);
             ListNode.PrintNode(head);
-
+            //Console.WriteLine("Length = " + ListNode.GetLength(head));
+            //ListNode.InsertNode(head, 10);
+            //ListNode.InsertNode(head, 11);
+            //ListNode.InsertNode(head, 12);
+            //ListNode.InsertNode(head, 13);
+            //ListNode.InsertNode(head, 10, 2);
+            //ListNode.InsertNodeAtEnd(head, 100);
+            //ListNode.PrintNode(head);
         }
     }
 }
